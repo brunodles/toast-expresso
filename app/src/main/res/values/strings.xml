@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Toast Espresso</string>
+    <string name="toast">This is a toast text</string>
+</resources>
